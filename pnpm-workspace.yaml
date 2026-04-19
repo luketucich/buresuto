@@ -2,3 +2,6 @@ packages:
   - "apps/*"
   - "packages/*"
   - "plugins/*"
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
